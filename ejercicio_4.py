@@ -1,0 +1,6 @@
+numero1 = int(input ("digite su primer numero"))
+numero2 = int(input ("digite su segundo numero"))
+print ("su suma es de: ",numero1+numero2)
+print ("su resta es de: ",numero1-numero2)
+print ("su mltiplicacion es de: ",numero1*numero2)
+print ("su divicion es de: ",numero1/numero2)
